@@ -10,4 +10,5 @@ function onChange() {
 }
 
 window.onload = function() {
+  onChange();
 }
