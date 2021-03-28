@@ -1,0 +1,62 @@
+* {
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メ
+イリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
+  font-weight: normal;
+  letter-spacing: 3px;
+  color: #232323;
+}
+body {
+  background-color: #f8f8f8;
+  padding-bottom: 130px;
+}
+
+.name-section {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #f8f8f8;
+  border: solid 1px #000;
+  width: 1050px;
+  height: 600px;
+}
+.name {
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メ
+イリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
+  font-weight: normal;
+  color: #222222;
+  letter-spacing: 3px;
+  font-size: 64px;
+  text-align: center;
+  margin-top: 210px;
+  margin-bottom: 0px;
+
+}
+
+.job {
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メ
+イリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
+  font-weight: normal;
+  text-align: center;
+  font-size: 30px;
+  margin: 0px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.inputs {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.inputs input {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.center {
+  margin-top: 20px;
+  text-align: center;
+}
+
