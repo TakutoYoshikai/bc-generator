@@ -1,6 +1,5 @@
 * {
-  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メ
-イリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
   font-weight: normal;
   letter-spacing: 3px;
   color: #232323;
@@ -19,8 +18,7 @@ body {
   height: 600px;
 }
 .name {
-  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メ
-イリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
   font-weight: normal;
   color: #222222;
   letter-spacing: 3px;
@@ -32,8 +30,7 @@ body {
 }
 
 .job {
-  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メ
-イリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
+  font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
   font-weight: normal;
   text-align: center;
   font-size: 30px;
