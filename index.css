@@ -16,6 +16,7 @@ body {
   border: solid 1px #000;
   width: 1050px;
   height: 600px;
+  margin-bottom: 60px;
 }
 .name {
   font-family: 'Dosis', "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", cursive;
