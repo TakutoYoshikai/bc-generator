@@ -7,7 +7,6 @@
 
 body {
   background-color: #f8f8f8;
-  padding-bottom: 130px;
 }
 
 .name-section {
@@ -27,7 +26,7 @@ body {
   letter-spacing: 3px;
   font-size: 64px;
   text-align: center;
-  margin-top: 246px;
+  margin-top: 220px;
   margin-bottom: 0px;
 
 }
@@ -37,7 +36,7 @@ body {
   font-weight: normal;
   text-align: center;
   font-size: 30px;
-  margin-top: 10px;
+  margin-top: 0px;
 }
 
 h2 {
