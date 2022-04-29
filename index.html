@@ -4,21 +4,28 @@
     <meta charset="utf-8">
     <title>Business Card Generator</title>
     <link rel="stylesheet" href="./index.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js" integrity="sha512-CNgIRecGo7nphbeZ04Sc13ka07paqdeTu0WR1IM4kNcpmBAUSHSQX0FslNhTDadL4O5SAGapGt4FodqL8My0mA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   </head>
   <body>
-    <div class="name-section" id="name-section">
-      <p class="name" id="name">TAKUTO YOSHIKAI</p>
-      <p class="job" id="job">SOFTWARE CREATOR / HACKER</p>
-    </div>
     <div class="inputs">
     <h2>Name</h2>
     <input type="text" value="TAKUTO YOSHIKAI" id="name-input" oninput="onChange()">
     <h2>Job</h2>
     <input type="text" value="SOFTWARE CREATOR / HACKER" id="job-input" oninput="onChange()">
+    <h2>Website</h2>
+    <input type="text" value="https://yoshikai.net/en" id="url" oninput="onChange()">
     <br>
     <div class="center">
-      <a href="" id="download" download="bc.png">Download image</a>
+      <a href="" id="download" download="bc.png">表をダウンロード</a>
+      <a href="" id="download-ura" download="bc-ura.png">表をダウンロード</a>
     </div>
+    </div>
+    <div class="name-section" id="name-section">
+      <p class="name" id="name">TAKUTO YOSHIKAI</p>
+      <p class="job" id="job">SOFTWARE CREATOR / HACKER</p>
+    </div>
+    <div class="qr-section" id="qr-section">
+      <div id="qrcode"></div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/0.4.1/html2canvas.js"></script>
 
