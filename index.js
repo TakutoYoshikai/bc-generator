@@ -17,8 +17,8 @@ function onChange() {
   document.getElementById("qrcode").innerHTML = "";
   new QRCode(document.getElementById("qrcode"), {
     text: url,
-    width: 300,
-    height: 300,
+    width: 240,
+    height: 240,
     colorLight: "#f8f8f8",
   });
 }

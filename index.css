@@ -66,11 +66,11 @@ a {
   font-weight: bold;
 }
 #qrcode {
-  margin-top: 150px;
+  margin-top: 180px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  width: 300px;
+  width: 240px;
 }
 .qr-section {
   text-align: center;
