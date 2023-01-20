@@ -13,7 +13,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   background-color: #f8f8f8;
-  border: solid 1px #000;
   width: 1050px;
   height: 600px;
   margin-bottom: 60px;
@@ -26,9 +25,13 @@ body {
   letter-spacing: 3px;
   font-size: 52px;
   text-align: center;
-  margin-top: 246px;
+  margin-top: 0px;
   margin-bottom: 0px;
 
+}
+.name-and-job {
+  position: relative;
+  top: 246px;
 }
 
 .job {
@@ -66,7 +69,8 @@ a {
   font-weight: bold;
 }
 #qrcode {
-  margin-top: 180px;
+  position: relative;
+  top: 180px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
